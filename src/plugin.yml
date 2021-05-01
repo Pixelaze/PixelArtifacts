@@ -1,0 +1,9 @@
+name: PixelArtifacts
+main: Pixelaze.PixelArtifacts.PixelArtifactsMain
+version: 0.1-SHANPSHOT
+description: Adds unique artifacts to your server
+author: Pixelaze
+
+commands:
+  pixelartifacts:
+    description: Menu of PixelArtifacts plugin
